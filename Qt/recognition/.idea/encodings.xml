@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/deep-text-recognition-benchmark/figures/gt_test.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/log_demo_result.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/recognition/saved_models/kocrnn_htr/log_train.txt" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

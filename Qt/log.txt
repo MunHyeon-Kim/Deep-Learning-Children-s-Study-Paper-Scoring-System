@@ -1,0 +1,1090 @@
+------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00007_1.png	브로콜리           	0.9772------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00048_1.png	기              	0.9565C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00048_2.png	양배날션로          	0.1354------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00055_1.png	툴립             	0.2819------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00074_1.png	할미꽃            	0.9994------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00099_1.png	우영             	0.2616------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00101_1.png	재미             	0.9987------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00113_1.png	파프리카           	0.9984------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00114_1.png	올리면            	0.3742------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00129_1.png	브로콜리           	0.9991------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00139_1.png	오이             	0.9989------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00176_1.png	툴립             	0.8910------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00177_1.png	호박             	0.7879------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00199_1.png	낱말             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00202_1.png	이어말하는          	0.9936------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00221_1.png	오이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00266_1.png	낱말             	0.8204------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00273_1.png	배추             	0.9471------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00275_1.png	이어말하기          	0.6505------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00350_1.png	꼭짓점            	0.9996------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00359_1.png	삼각불            	0.8174------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00366_1.png	있면             	0.1642------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00367_1.png	자              	0.3081C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00367_2.png	밑면             	0.5706------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00372_1.png	사각             	0.9974------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00379_1.png	오각             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00382_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00389_1.png	육각불            	0.9993------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00396_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00398_1.png	각불의형           	0.2302------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00401_1.png	모서리            	0.9991------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00405_1.png	꼭짓점            	0.9946------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00410_1.png	삼각형            	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00414_1.png	모서리            	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00417_1.png	삼각별            	0.5438------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00419_1.png	꼭짓점            	0.8107------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00423_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00428_1.png	모서리            	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00454_1.png	사각불            	0.9826------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00457_1.png	육각불            	0.9971------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00474_1.png	삼각불            	0.3819------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00476_1.png	직각불            	0.8323------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00483_1.png	각육점            	0.0353------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00489_1.png	꼭짓점            	0.9937------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00500_1.png	꼭짓점            	0.9920------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00505_1.png	각불의꼭각형         	0.0283------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00506_1.png	사각불            	0.7954------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00533_1.png	직사각형           	0.9665------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00539_1.png	각불             	0.5344------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00542_1.png	삼각형            	0.9991------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00552_1.png	각은각각각형         	0.0063------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00558_1.png	옆면             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00561_1.png	직사각형           	0.8240------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00574_1.png	높이             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00582_1.png	옆면             	0.8712------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00596_1.png	모시리            	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00597_1.png	높이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00598_1.png	높이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00605_1.png	옆면             	0.9962------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00616_1.png	꼭짓점            	0.9947------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00620_1.png	높이             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00633_1.png	다각형            	0.9967------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00638_1.png	꼭짓점            	0.9772------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00639_1.png	null           	0.9697------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00654_1.png	각불             	0.2010------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00656_1.png	각기둥합형          	0.3046------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00660_1.png	다각형            	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00671_1.png	옆면             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00678_1.png	각불             	0.9177------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00680_1.png	평행             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00693_1.png	수              	0.6929------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00697_1.png	옆면             	0.9953------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00698_1.png	수직             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00701_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00702_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00706_1.png	평행             	0.9604------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00707_1.png	둥              	0.5849------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00711_1.png	n불의리           	0.0534------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00712_1.png	꼭짓점            	0.9891------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00714_1.png	높이꼭짓점          	0.9725------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00723_1.png	옆면             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00740_1.png	넘면             	0.6108------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00741_1.png	면              	0.9327------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00744_1.png	밑              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00746_1.png	평행             	0.9956------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00749_1.png	각기둥            	0.9842------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00751_1.png	합공다형           	0.0312------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00764_1.png	직사각형           	0.9241------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00768_1.png	각기둥합동          	0.3899------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00771_1.png	삼각형            	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00773_1.png	꼭짓점            	0.9996------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00775_1.png	모서리            	0.9986------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00791_1.png	밑면             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00808_1.png	옆면             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00812_1.png	직사각형           	0.9626------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00824_1.png	모서리            	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00841_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00843_1.png	각기둥            	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00844_1.png	평행             	0.9995------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00849_1.png	합동             	0.9840------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00851_1.png	꼭짓점            	0.9657------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00872_1.png	합동             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00874_1.png	꼭짓점            	0.9925------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00877_1.png	모서리            	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00878_1.png	높이             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00880_1.png	꼭짓점            	0.9868------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00886_1.png	직사각형           	0.9857------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00888_1.png	밑면             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00909_1.png	높이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00920_1.png	최뒷꼭수           	0.0677------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00929_1.png	가              	0.5827------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00939_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00941_1.png	면면             	0.6466------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00948_1.png	길이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00957_1.png	토마수            	0.7581------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00964_1.png	직각             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00974_1.png	길이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00994_1.png	직각길각           	0.7003------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00996_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\00999_1.png	직각삼각형          	0.5992------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01002_1.png	직각             	0.9982------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01031_1.png	직각             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01054_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01055_1.png	직사각형           	0.5566------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01058_1.png	직사각형           	0.8866------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01080_1.png	너              	0.9614------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01084_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01096_1.png	기              	0.9630------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01105_1.png	나              	0.6623------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01108_1.png	나              	0.4530------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01118_1.png	꼭짓점            	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01136_1.png	무지점            	0.1784------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01141_1.png	정사각형           	0.8644------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01149_1.png	기              	0.5806------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01157_1.png	?              	0.1199------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01158_1.png	직각             	0.7209------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01161_1.png	꼭짓점            	0.9854------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01162_1.png	직사각형           	0.9650------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01179_1.png	3              	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01200_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01202_1.png	직사각형           	0.9719------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01208_1.png	꼭짓점            	0.9988------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01215_1.png	골립             	0.4026------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01217_1.png	나              	0.6977------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01232_1.png	꼭지점            	0.7842------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01237_1.png	직각             	0.9872------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01238_1.png	안식선            	0.9987------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01239_1.png	기              	0.9630------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01254_1.png	직사각형           	0.7896------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01261_1.png	직각             	0.9999C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01261_2.png	직가사기           	0.0813------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01262_1.png	정가사족           	0.0517------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01266_1.png	신              	0.3700------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01272_1.png	기              	0.9782------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01284_1.png	직각             	0.9981------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01287_1.png	직사각형           	0.9071------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01306_1.png	가              	0.9628------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01308_1.png	나              	0.9385------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01318_1.png	정사각형           	0.9710------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01324_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01339_1.png	직각사각형          	0.6941------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01344_1.png	직각             	0.6793------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01348_1.png	정사각형           	0.9915------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01374_1.png	소              	0.4308------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01385_1.png	직각직점           	0.4003------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01387_1.png	각              	0.9990------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01392_1.png	가              	0.9993------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01393_1.png	미              	0.4223------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01394_1.png	가              	0.9888------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01396_1.png	나              	0.4066------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01398_1.png	정사각형           	0.9135------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01402_1.png	직각             	0.9996------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01406_1.png	꼭짓점            	0.9811------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01408_1.png	점              	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01423_1.png	각지             	0.5332------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01432_1.png	직각길이           	0.5362------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01436_1.png	기              	0.9324------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01437_1.png	집              	0.3505------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01447_1.png	집              	0.3505------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01448_1.png	재미             	0.8647------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01467_1.png	기              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01469_1.png	꼭짓점            	0.6137------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01488_1.png	직각             	0.9554------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01491_1.png	기              	0.5066C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01491_2.png	직각             	0.9738------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01496_1.png	꼭짓점            	0.9992------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01497_1.png	길이             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01512_1.png	정사각형           	0.9289------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01518_1.png	각형             	0.4310------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01521_1.png	낱말             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01530_1.png	기              	0.9707------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01534_1.png	바              	0.3935------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01540_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01541_1.png	직각             	0.9991------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01546_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01568_1.png	꼭짓점            	0.9968------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01571_1.png	길이             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01584_1.png	정사각형           	0.8713------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01585_1.png	스신             	0.3136------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01590_1.png	직사각형           	0.9012------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01593_1.png	정사각형           	0.9909------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01595_1.png	재미             	0.9973------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01615_1.png	직각             	0.9991------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01631_1.png	직각             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01635_1.png	직각             	0.9970------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01655_1.png	변              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01657_1.png	직사각형           	0.9264------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01659_1.png	정이직각           	0.1405------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01663_1.png	직사각형           	0.9926------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01668_1.png	직각             	0.9977------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01674_1.png	가              	0.9989------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01676_1.png	가요             	0.4846------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01691_1.png	집중             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01695_1.png	내용정리           	0.8222------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01702_1.png	제목             	0.9996------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01716_1.png	제목             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01724_1.png	다              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01729_1.png	스크             	0.7362------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01732_1.png	다              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01760_1.png	각기둥한           	0.0609------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01762_1.png	2속아            	0.0985------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01763_1.png	신난다            	0.9722------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01776_1.png	기뻐요.           	0.9980------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01785_1.png	즐겁다            	0.9967------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01786_1.png	기쁘다            	0.9241------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01792_1.png	나다             	0.3749------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01795_1.png	즐겁다            	0.6063------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01798_1.png	낱말             	0.9912------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01816_1.png	차다             	0.9688------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01870_1.png	고              	0.9194------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01871_1.png	배추             	0.9974------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01899_1.png	오이             	0.9878------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01908_1.png	낱말             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01913_1.png	구들리            	0.1397------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01914_1.png	?              	0.6093C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01914_2.png	상아추            	0.5785------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01925_1.png	가지             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01926_1.png	고추             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01971_1.png	삼              	0.1531------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\01975_1.png	배추             	0.9973------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02000_1.png	w호박            	0.2506------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02029_1.png	김치             	0.5919------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02072_1.png	라              	0.9442------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02081_1.png	툴립             	0.5248------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02082_1.png	배추             	0.9940------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02109_1.png	둥              	0.8167C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02109_2.png	꽃다발            	0.9990------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02112_1.png	둥              	0.8167------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02130_1.png	지              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02136_1.png	꼭              	0.5074C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02136_2.png	길              	0.1378------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02152_1.png	이어말            	0.6285------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02171_1.png	브로콜리           	0.9975------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\02179_1.png	오이             	0.9967------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a007_1.png	는              	0.5389------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a019_1.png	아이스            	0.8419------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a020_1.png	들도도            	0.3341------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a023_1.png	으              	0.7082------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a026_1.png	우              	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a034_1.png	금              	0.9984------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a036_1.png	치              	0.9975------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a042_1.png	이              	0.3272------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a045_1.png	?              	0.4781C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a045_2.png	두지             	0.7261------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a048_1.png	거              	0.2071C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a048_2.png	늘을으스           	0.1513------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a055_1.png	스크             	0.9988------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a058_1.png	미              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a060_1.png	있              	0.7647------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a068_1.png	숨              	0.8183------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a070_1.png	줄넘             	0.9995------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a089_1.png	을              	0.7632------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a095_1.png	날              	0.8167------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a101_1.png	도차             	0.9915------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a108_1.png	?              	0.8151C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a108_2.png	사진             	0.9994------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a109_1.png	엄마             	0.9976------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a115_1.png	방에             	0.9193------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a132_1.png	다              	0.9813------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a135_1.png	주              	0.9996------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a144_1.png	기              	0.6189C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a144_2.png	자              	0.8707C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a144_3.png	?              	0.4782------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a146_1.png	기              	0.3992C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a146_2.png	두              	0.6512------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a149_1.png	이              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a161_1.png	그              	0.9844------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a162_1.png	사              	0.9994------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a175_1.png	한테             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a177_1.png	엉              	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a179_1.png	늘              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a186_1.png	옥수수            	0.9993------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a187_1.png	파              	0.9715------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a199_1.png	보              	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a200_1.png	자              	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a202_1.png	무어             	0.5779------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a204_1.png	좋꼭다.           	0.2725------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a206_1.png	수              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a209_1.png	또              	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a210_1.png	으              	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a225_1.png	오              	0.9848------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a230_1.png	오              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a231_1.png	야              	0.9888------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a232_1.png	다              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a234_1.png	프              	0.9730------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a239_1.png	와이즈점           	0.4861------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a247_1.png	자              	0.6954C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a247_2.png	사랑             	0.9942------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a249_1.png	3              	0.5842C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a249_2.png	마              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a253_1.png	리고             	0.9989------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a255_1.png	야              	0.5264------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a260_1.png	많이해주세요         	0.8791------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a267_1.png	유              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a277_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a280_1.png	?              	0.3831C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a280_2.png	꼭은직            	0.1165C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a280_3.png	기              	0.3627------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a298_1.png	야              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a300_1.png	오              	0.9940------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a309_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a318_1.png	유              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a320_1.png	야              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a321_1.png	가지             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a322_1.png	유              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a329_1.png	가지             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a336_1.png	오              	0.9161------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a344_1.png	야              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a349_1.png	3              	0.5277C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a349_2.png	오              	0.9965------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a365_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a372_1.png	오              	0.4987------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a373_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a376_1.png	야              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a377_1.png	오              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a378_1.png	고구마            	0.8460------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a389_1.png	가지             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a395_1.png	야              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a397_1.png	유              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a402_1.png	유              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a407_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a409_1.png	가지             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a410_1.png	이              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a416_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a419_1.png	가지             	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a427_1.png	가지             	0.9994------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a430_1.png	야              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a434_1.png	야              	0.9996------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a439_1.png	유              	0.9995------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a451_1.png	가지             	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a458_1.png	야              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a462_1.png	작오으기           	0.5363------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a467_1.png	바나나            	0.9978------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a471_1.png	동그라미모양         	0.4290------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a472_1.png	네모             	0.9989------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a473_1.png	모양             	0.8744------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a476_1.png	상자모양           	0.9998------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a477_1.png	넷              	0.9849------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a478_1.png	둘              	0.6748------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a482_1.png	아l             	0.6785------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a486_1.png	일              	0.9999------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a489_1.png	오              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a491_1.png	독              	0.2309------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a499_1.png	육              	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a518_1.png	상자모양           	0.9153------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a525_1.png	모양             	0.9995------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a526_1.png	상자모양           	0.7771------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a528_1.png	오각형            	0.9992------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a538_1.png	오고l            	0.5187------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a548_1.png	직선             	0.8627------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a563_1.png	?              	0.9914C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a563_2.png	직각             	0.9950------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a566_1.png	직각             	0.9985------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a567_1.png	길이             	0.7250------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a569_1.png	직각             	0.9994------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a570_1.png	길이             	1.0000------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a571_1.png	직각             	0.9837------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a582_1.png	길이             	0.9994------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a586_1.png	직각             	0.9997------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a591_1.png	삼각기둥           	0.9243------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a593_1.png	사각기둥           	0.9947------------------------------------------------------------------------------------------------------------------------
+image_path               	predicted_labels	confidence score	character error rate
+------------------------------------------------------------------------------------------------------------------------
+C:\Users\huring\Desktop\QtPrototype (1)\Qt\data\answer_sheets\text_recogition_naverAi\a599_1.png	같아             	0.9652
